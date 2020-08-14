@@ -2,6 +2,6 @@
 void main()
 {
   printf("Hello world");
-  printf("Edit-2");
+  printf("Edit-1");
   printf("pull request")
 }
